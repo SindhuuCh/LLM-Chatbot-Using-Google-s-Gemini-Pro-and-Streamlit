@@ -57,5 +57,5 @@ This project builds a simple and interactive AI chatbot powered by Google’s Ge
 
 * The chatbot responds to user questions in real time
 * Generates natural, AI-powered text using Gemini Pro
-* Lightweight and fast — ideal for demos or experimentation
+* Lightweight and fast ideal for demos or experimentation
 
