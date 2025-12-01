@@ -41,8 +41,6 @@ This project builds a simple and interactive AI chatbot powered by Google’s Ge
 4. Streamlit displays the reply in a chat-style format
 5. Session memory keeps track of previous messages
 
-This creates a smooth, ChatGPT-like conversation experience.
-
 ---
 
 ## **How to Run**
@@ -61,7 +59,3 @@ This creates a smooth, ChatGPT-like conversation experience.
 * Generates natural, AI-powered text using Gemini Pro
 * Lightweight and fast — ideal for demos or experimentation
 
-
-
-n
-⭐ A compact resume-friendly version
